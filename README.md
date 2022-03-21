@@ -1,2 +1,2 @@
 # AircraftWar
-A simple game of airpcraft war developed with java
+Some simple games developed with java
